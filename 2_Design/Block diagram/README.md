@@ -1,3 +1,5 @@
+
 ## Block Diagram
-![Block diagrams](https://user-images.githubusercontent.com/101305374/164438528-a3a8949d-7d6c-488e-a185-9ac6b4482eec.png)
+![Block diagram2](https://user-images.githubusercontent.com/101305374/164439845-740d1055-f887-4046-8f05-1a3d6fcbc6cc.png)
+
 
