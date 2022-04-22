@@ -1,5 +1,7 @@
 # M2_-Vehicle-temperature-monitoring-
 
+## Folder Structure
+
 ![image](https://user-images.githubusercontent.com/101305374/164582823-d95224d7-090a-471c-8f2b-5cad53f8c057.png)
 
 ## Codacy Badge
